@@ -52,3 +52,8 @@ for filepath in list_of_files:
 
     else:
         print(f"{filename} is already present in {filedir} and has some content. Skipping creation.")
+        
+        
+        
+        
+        '''mongodb+srv://mijan_db:mijan@cluster0.sejrspp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'''
